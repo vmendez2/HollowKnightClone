@@ -19,6 +19,7 @@ public class PlayerController: MonoBehaviour
         jumper = gameObject.GetComponent<Jumper>();
     }
 
+   // I am commenting on this script
     // Update is called once per frame
     void Update()
     {
